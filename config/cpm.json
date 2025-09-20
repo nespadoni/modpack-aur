@@ -6,7 +6,9 @@
   },
   "blockedList": {},
   "serverSettings": {
-    "enx-soc-10.enx.host": {}
+    "enx-soc-10.enx.host": {
+      "safetyProfile": "off"
+    }
   },
   "editorUVAreaAlpha": 0.8,
   "editorSelectMouseButton": 0.0,
@@ -23,5 +25,5 @@
   ],
   "safetyProfiles": {},
   "friendList": {},
-  "selectedModel": "VIITUH (1).cpmmodel"
+  "selectedModel": ""
 }
