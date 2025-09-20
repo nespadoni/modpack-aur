@@ -1,0 +1,5 @@
+
+[Drops]
+	#Enable or Disable Guardians dropping Sea Glass Shards (True by default)
+	DoGuardiansDropSeaglass = true
+

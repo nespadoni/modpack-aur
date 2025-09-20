@@ -1,0 +1,7 @@
+type = last_world
+
+last_world {
+  is_server = true
+  world = enx-soc-10.enx.host:10067
+}
+

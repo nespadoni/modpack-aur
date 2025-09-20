@@ -1,0 +1,27 @@
+{
+  "editorLastVersion": "0.6.24a",
+  "playerSettings": {},
+  "globalSettings": {
+    "safetyProfile": "off"
+  },
+  "blockedList": {},
+  "serverSettings": {
+    "enx-soc-10.enx.host": {}
+  },
+  "editorUVAreaAlpha": 0.8,
+  "editorSelectMouseButton": 0.0,
+  "titleScreenButton": true,
+  "keybinds": {},
+  "friendSettings": {},
+  "editorDragMouseButton": -1.0,
+  "renderNames": false,
+  "editorMenuMouseButton": 1.0,
+  "editorRotateMouseButton": 2.0,
+  "editorRecentProjects": [
+    "C:\\Users\\fabio\\Documents\\AURORION\\PERSONAGENS LORE\\Giuseppe\\GiuseppeBa.cpmproject",
+    "C:\\Users\\fabio\\Documents\\AURORION\\PERSONAGENS LORE\\Giuseppe\\GiuseppeCerimonia.cpmproject"
+  ],
+  "safetyProfiles": {},
+  "friendList": {},
+  "selectedModel": "VIITUH (1).cpmmodel"
+}
